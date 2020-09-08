@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".DriverRequestListActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="@string/aq"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginBottom="10dp"
+        app:srcCompat="@drawable/distance" />
+
+    <Button
+        android:id="@+id/btnGetRequests"
+        android:layout_width="201dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="78dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/alpha_background"
+        android:text="@string/aw"
+        android:textColor="#FFFFFF" />
+
+    <ListView
+        android:id="@+id/requestListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

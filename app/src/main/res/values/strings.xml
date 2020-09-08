@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Eligius</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">F6Emz1uUEfu8yzlkkmH7u2f6cqMZnt4R6ZQT1bWX</string>
+    <string name="back4app_client_key">cTlH1gNzMnhxWk3PDpGkDiSNAOBO5tz7ds0MSdcN</string>
+    <string name="title_activity_passenger">Map</string>
+    <string name="title_activity_view_locations_map">Map</string>
+
+    <string name="aq">All the nearby requests will appear here</string>
+    <string name="aw">Get Nearby Requests</string>
+    <string name="ae">Username</string>
+    <string name="ar">Password</string>
+    <string name="at">Assistance Needed</string>
+    <string name="ay">Available for Assistance</string>
+    <string name="au">Sign Up</string>
+    <string name="ai">Enter your name</string>
+    <string name="ao">One time login</string>
+    <string name="ap">Eligius</string>
+    <string name="aa">In case of emergency, if you do not have a registered account, use this one time login feature</string>
+    <string name="as">Developer</string>
+    <string name="ad">Send</string>
+    <string name="af">Enter Message</string>
+    <string name="ag">Contact Number</string>
+    <string name="ah">This notification will be send to all the users of this app, use this feature to describe current situation in detail and to provide your contact number</string>
+    <string name="aj">Realtime Cloud Notification</string>
+    <string name="ak">Go back to dashboard</string>
+    <string name="al">Request for Assistance</string>
+    <string name="az">Send Notification to all</string>
+    <string name="ax">Update Location</string>
+    <string name="ac">Logout</string>
+    <string name="vv">Alone we are strong</string>
+    <string name="av">together we are stronger</string>
+    <string name="ab">I am Arriving soon</string>
+    <string name="an">Loading...</string>
+
+
+
+    <string name="linkedin">LinkedIn</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="github">GitHub</string>
+    <string name="techaddicts">Techaddicts</string>
+    <string name="connect_to_me">Connect to me</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829216687008",
+    "firebase_url": "https://eligius-cloud-msg.firebaseio.com",
+    "project_id": "eligius-cloud-msg",
+    "storage_bucket": "eligius-cloud-msg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829216687008:android:d8e2d7697c5f36d07c9ac5",
+        "android_client_info": {
+          "package_name": "in.techaddicts.eligius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829216687008-osa5q3vc5elq3f73eafkbpk6vvbc8fal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.techaddicts.eligius",
+            "certificate_hash": "9b3176f5b7b0333bce8ba73e9b70e50842775a17"
+          }
+        },
+        {
+          "client_id": "829216687008-6c9i1c2s44u8qbvatt8evk0eeh0pj72u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViiVNwix_H_NU_pAq1UKnBcJpGUlFx64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829216687008-6c9i1c2s44u8qbvatt8evk0eeh0pj72u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
