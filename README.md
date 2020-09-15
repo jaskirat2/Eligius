@@ -7,10 +7,10 @@
 ### 🔰 User of this application who is willing to provide assistance will be able to see list of those users who requires immediate assistance, also location will be tracked realtime.
 ![266c315b054c5d595ed9ae7013613e52](https://user-images.githubusercontent.com/44981613/93207511-b1d6c500-f778-11ea-9f92-255df87ca14c.jpg)
 ### -> When we launch this application, first of all a cool splashscreen with animations appears.
-### -> Now User can Sign up, we can have two types of user: The users which are willing to provide assistance and second ones are those which requires assistance, so while signing up it is mandatory to select one option: Assistance needed or Available for Assistance
-### -> One time login feature is also there in case of emergency if the user does not have a registered account.
+### -> Now User can Sign up, we can have two types of user: The users which are willing to provide assistance and second ones are those which requires assistance, so while signing up it is mandatory to select one option: Assistance needed or Available for Assistance.
 ![2](https://user-images.githubusercontent.com/44981613/93208126-af289f80-f779-11ea-9184-145f99ddd614.jpg)
 ![3](https://user-images.githubusercontent.com/44981613/93208219-e13a0180-f779-11ea-96f4-7dc859100604.jpg)
+### -> One time login feature is also there in case of emergency, if the user does not have a registered account.
 ### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 ![4](https://user-images.githubusercontent.com/44981613/93208425-2a8a5100-f77a-11ea-9cdc-29ca175d0e43.jpg)
 ![5](https://user-images.githubusercontent.com/44981613/93209211-6a056d00-f77b-11ea-99ff-b14f8bf1c86a.jpg)
