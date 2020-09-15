@@ -21,11 +21,12 @@
 ### -> Another screenshot shows how the Notification will look like when it is sent by any user in emergency situation.
 ![8](https://user-images.githubusercontent.com/44981613/93234558-10606b00-f79a-11ea-9237-189365b6890f.jpg)
 ![9](https://user-images.githubusercontent.com/44981613/93234554-0f2f3e00-f79a-11ea-8d71-fce6d36dc989.jpg)
-### The user who will be logged in as AVAILABLE FOR ASSISTANCE will interact with this user interface where all the users who requested for assistance will be shown, their exact location co ordinates will also be shown.
-### Now, Suppose user wants to help John Murphy as he is only 0.41 miles away from that particular User
+### -> The user who will be logged in as AVAILABLE FOR ASSISTANCE will interact with this user interface where all the users who requested for assistance will be shown, their exact location co ordinates will also be shown.
+### -> Now, Suppose user wants to help John Murphy as he is only 0.41 miles away from that particular User
 ![10](https://user-images.githubusercontent.com/44981613/93208417-2827f700-f77a-11ea-9016-fa9fdb0f5c98.jpg)
 ![11](https://user-images.githubusercontent.com/44981613/93244559-8d461180-f7a7-11ea-812c-e4f0c1ef8a0c.jpg)
-### For example on selecting John Murphy, Eligius app will ask the user to open shortest path between both the users in Google Maps and this activity will open in Google Maps, as Google Maps uses advanced trees and graphs algorithms to figure out the shortest ways.
+### -> For example on selecting John Murphy, Eligius app will ask the user to open shortest path between both the users in Google Maps and this activity will open in Google Maps, as Google Maps uses advanced trees and graphs algorithms to figure out the shortest ways.
+### -> On the other hand, the user who requested for assistance will be notified about help which is arriving and also user will be able to see the realtime location of the one who is coming for help.
 ![12](https://user-images.githubusercontent.com/44981613/93236174-1eaf8680-f79c-11ea-98e6-e63b06a4c5f9.jpg)
 ![12](https://user-images.githubusercontent.com/44981613/93208423-29592400-f77a-11ea-92b9-d245ad83bda1.jpg)
 ### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
