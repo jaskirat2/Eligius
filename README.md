@@ -29,4 +29,4 @@
 ### -> On the other hand, the user who requested for assistance will be notified about help which is arriving and also user will be able to see the realtime location of the one who is coming for help.
 ![12](https://user-images.githubusercontent.com/44981613/93236174-1eaf8680-f79c-11ea-98e6-e63b06a4c5f9.jpg)
 ![12](https://user-images.githubusercontent.com/44981613/93208423-29592400-f77a-11ea-92b9-d245ad83bda1.jpg)
-### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+### When any user will go to Developer option, this interface will appear which has 5 customized buttons, each of which will take the user to my account on that particular social media platform.
