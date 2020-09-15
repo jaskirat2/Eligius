@@ -13,7 +13,7 @@
 ### -> One time login feature is also there in case of emergency, if the user does not have a registered account. In this case anonymous id is assigned to that particular user.
 ![4](https://user-images.githubusercontent.com/44981613/93208425-2a8a5100-f77a-11ea-9cdc-29ca175d0e43.jpg)
 ![5](https://user-images.githubusercontent.com/44981613/93209211-6a056d00-f77b-11ea-99ff-b14f8bf1c86a.jpg)
-### If the user is in danger and wants assistance, whether He signs up
+### If the user is in danger and wants immediate assistance, then user can Request for Assistance by pressing the topmost button. By doing so, the location of the user will be sent to all the other users of this app.
 ![6](https://user-images.githubusercontent.com/44981613/93208404-23fbd980-f77a-11ea-9be5-1dc3e111adda.jpg)
 ![7](https://user-images.githubusercontent.com/44981613/93208409-25c59d00-f77a-11ea-9560-15e710d4418e.jpg)
 ### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
