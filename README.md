@@ -17,8 +17,8 @@
 ### -> Also, the user can send Contact number, current location and message describing the current situation in the form of a notification to all the users of this app by pressing SEND NOTIFICATION TO ALL button
 ![6](https://user-images.githubusercontent.com/44981613/93208404-23fbd980-f77a-11ea-9be5-1dc3e111adda.jpg)
 ![7](https://user-images.githubusercontent.com/44981613/93208409-25c59d00-f77a-11ea-9560-15e710d4418e.jpg)
-### This User Interface will appear on pressing SEND NOTIFICATION TO ALL button. Here user will Enter Contact Number, Name and Message describing current situation.
-### Another screenshot shows how the Notification will look like when it is sent by any user in emergency situation.
+### -> This User Interface will appear on pressing SEND NOTIFICATION TO ALL button. Here user will Enter Contact Number, Name and Message describing current situation.
+### -> Another screenshot shows how the Notification will look like when it is sent by any user in emergency situation.
 ![8](https://user-images.githubusercontent.com/44981613/93208412-265e3380-f77a-11ea-9764-31e4ffa592fa.jpg)
 ![9](https://user-images.githubusercontent.com/44981613/93208415-26f6ca00-f77a-11ea-91ea-b94c31e356cd.jpg)
 ### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
