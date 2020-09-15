@@ -1,5 +1,5 @@
 # Eligius
-### An android application implemented using features of Google Maps and Realtime cloud notifications of firebase. In this application user can request for assistance in case the user feels unsafe in that particular area and user will get realtime updates. A special feature is added to this application where user can send his Contact number, current location and message in the form of a notification to all the users of this app. User will also be able to track the location of one who is coming to provide assistance. Another special feature in this application is if the user does not have a registered account in this app,then user can use the feature of one time login, where anonymous id is assigned to that particular user.
+### An android application implemented using features of Google Maps and Realtime cloud notifications of firebase. In this application user can request for assistance in case the user feels unsafe in that particular area and user will get realtime updates. A special feature is added to this application where user can send his Contact number, current location and message describing current situation in the form of a notification to all the users of this app. User will also be able to track the location of one who is coming to provide assistance. Another special feature in this application is if the user does not have a registered account in this app,then user can use the feature of one time login, where anonymous id is assigned to that particular user.
 ## Features:
 ### 🔰 One time login feature in case of emergency if the user does not have a registered account.
 ### 🔰 User will get Realtime location and text updates.
@@ -13,7 +13,8 @@
 ### -> One time login feature is also there in case of emergency, if the user does not have a registered account. In this case anonymous id is assigned to that particular user.
 ![4](https://user-images.githubusercontent.com/44981613/93208425-2a8a5100-f77a-11ea-9cdc-29ca175d0e43.jpg)
 ![5](https://user-images.githubusercontent.com/44981613/93209211-6a056d00-f77b-11ea-99ff-b14f8bf1c86a.jpg)
-### If the user is in danger and wants immediate assistance, then user can Request for Assistance by pressing the topmost button. By doing so, the location of the user will be sent to all the other users of this app.
+### -> If the user is in danger and wants immediate assistance, then user can press top most button REQUEST FOR ASSISTANCE. By doing so, the location of the user will be sent to all the other users of this app.
+### Also, the user can send Contact number, current location and message describing the current situation in the form of a notification to all the users of this app by pressing SEND NOTIFICATION TO ALL button
 ![6](https://user-images.githubusercontent.com/44981613/93208404-23fbd980-f77a-11ea-9be5-1dc3e111adda.jpg)
 ![7](https://user-images.githubusercontent.com/44981613/93208409-25c59d00-f77a-11ea-9560-15e710d4418e.jpg)
 ### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
