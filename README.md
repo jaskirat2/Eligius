@@ -24,7 +24,7 @@
 ### The user who will be logged in as AVAILABLE FOR ASSISTANCE will interact with this user interface where all the users who requested for assistance will be shown, their exact location co ordinates will also be shown.
 ### Now, Suppose user wants to help John Murphy as he is only 0.41 miles away from that particular User
 ![10](https://user-images.githubusercontent.com/44981613/93208417-2827f700-f77a-11ea-9016-fa9fdb0f5c98.jpg)
-![11](https://user-images.githubusercontent.com/44981613/93234548-0d657a80-f79a-11ea-8dd9-6fe38ee7d034.jpg)
+![11](https://user-images.githubusercontent.com/44981613/93244559-8d461180-f7a7-11ea-812c-e4f0c1ef8a0c.jpg)
 ### For example on selecting John Murphy, Eligius app will ask the user to open shortest path between both the users in Google Maps and this activity will open in Google Maps, as Google Maps uses advanced trees and graphs algorithms to figure out the shortest ways.
 ![12](https://user-images.githubusercontent.com/44981613/93236174-1eaf8680-f79c-11ea-98e6-e63b06a4c5f9.jpg)
 ![12](https://user-images.githubusercontent.com/44981613/93208423-29592400-f77a-11ea-92b9-d245ad83bda1.jpg)
