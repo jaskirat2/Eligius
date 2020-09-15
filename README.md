@@ -11,10 +11,10 @@
 ![2](https://user-images.githubusercontent.com/44981613/93208126-af289f80-f779-11ea-9184-145f99ddd614.jpg)
 ![3](https://user-images.githubusercontent.com/44981613/93208219-e13a0180-f779-11ea-96f4-7dc859100604.jpg)
 ### -> One time login feature is also there in case of emergency, if the user does not have a registered account. In this case anonymous id is assigned to that particular user.
-![4](https://user-images.githubusercontent.com/44981613/93208425-2a8a5100-f77a-11ea-9cdc-29ca175d0e43.jpg)
-![5](https://user-images.githubusercontent.com/44981613/93209211-6a056d00-f77b-11ea-99ff-b14f8bf1c86a.jpg)
+![4](https://user-images.githubusercontent.com/44981613/93232207-42240280-f797-11ea-9102-89f24754bab7.jpg)
+![5](https://user-images.githubusercontent.com/44981613/93232216-43edc600-f797-11ea-9d09-4a08d06864c0.jpg)
 ### -> If the user is in danger and wants immediate assistance, then user can press top most button REQUEST FOR ASSISTANCE. By doing so, the location of the user will be sent to all the other users of this app.
-### Also, the user can send Contact number, current location and message describing the current situation in the form of a notification to all the users of this app by pressing SEND NOTIFICATION TO ALL button
+### -> Also, the user can send Contact number, current location and message describing the current situation in the form of a notification to all the users of this app by pressing SEND NOTIFICATION TO ALL button
 ![6](https://user-images.githubusercontent.com/44981613/93208404-23fbd980-f77a-11ea-9be5-1dc3e111adda.jpg)
 ![7](https://user-images.githubusercontent.com/44981613/93208409-25c59d00-f77a-11ea-9560-15e710d4418e.jpg)
 ### Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
