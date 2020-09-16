@@ -155,18 +155,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (item.getItemId())
         {
             case R.id.loginItem:                               //Id of menu bar
-                if (state == State.SIGNUP)                     //If state is sign up then
-                {
-                    state = State.LOGIN;                      // Then change state from sign up tp login..
-                    item.setTitle("Sign Up");                 // Set text of menu bar Sign up..
-                    btnSignUpLogin.setText("Log In");
-                } else if (state == State.LOGIN) {
-
-                    state = State.SIGNUP;
-                    item.setTitle("Log In");
-                    btnSignUpLogin.setText("Sign Up");
-                }
-
 
                 break;
         }
